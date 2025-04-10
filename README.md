@@ -26,6 +26,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `triangle` function returns a specified row of Pascal's triangle as a list.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+4. [transposed](tasks/transposed)
+   - Task: Write a function that should accept a matrix as a list of lists and return the transposed matrix (a new list of lists).
+   - Solution: The `transposed` function returns the transposed matrix.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
