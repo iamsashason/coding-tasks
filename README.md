@@ -15,6 +15,11 @@ Tasks are organized into folders, each containing:
    - Task: Check if a sequence is continuous without any number gaps.
    - Solution: The `is_continuous_sequence` function verifies whether the sequence is increasing and continuous.
    - Tests: Verifying the correctness of the solution through various test cases.
+
+2. [find_longest_length](tasks/find_longest_length/)
+   - Task: Find the length of the longest substring without repeating elements.
+   - Solution: The `find_longest_length` function returns the length of the longest sequence of non-repeating characters.
+   - Tests: Verifying the correctness of the solution through various test cases.
   
 ## Installation and Running Tests
 
