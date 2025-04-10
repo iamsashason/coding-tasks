@@ -21,6 +21,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `find_longest_length` function returns the length of the longest sequence of non-repeating characters.
    - Tests: Verifying the correctness of the solution through various test cases.
   
+3. [triangle](tasks/triangle)
+   - Task: Write a function that returns a specified row of Pascal's triangle as a list.
+   - Solution: The `triangle` function returns a specified row of Pascal's triangle as a list.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
