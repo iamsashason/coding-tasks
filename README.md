@@ -36,6 +36,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `sum_of_intervals` function returns the transposed sum of all non-intersecting interval lengths.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+6. [length_of_last_word](tasks/length_of_last_word)
+   - Task: Write a function that which returns the length of the last word of the string passed to the input
+   - Solution: The `length_of_last_word` function returns the length of the last word.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
