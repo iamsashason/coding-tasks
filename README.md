@@ -31,6 +31,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `transposed` function returns the transposed matrix.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+5. [sum_of_intervals](tasks/sum_of_intervals)
+   - Task: Write a function that takes a list of intervals as input and returns the sum of all non-intersecting interval lengths. 
+   - Solution: The `sum_of_intervals` function returns the transposed sum of all non-intersecting interval lengths.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
