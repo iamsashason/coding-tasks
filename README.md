@@ -76,6 +76,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `ichunks` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+14. [mirror_matrix](tasks/mirror_matrix/)
+   - Task: Write a function that takes a two-dimensional list (matrix) and modifies it so that the right half of the matrix becomes a mirror copy of the left half, symmetrical about the vertical axis of the matrix.
+   - Solution: The `mirror_matrix` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
