@@ -21,32 +21,32 @@ Tasks are organized into folders, each containing:
    - Solution: The `find_longest_length` function returns the length of the longest sequence of non-repeating characters.
    - Tests: Verifying the correctness of the solution through various test cases.
   
-3. [triangle](tasks/triangle)
+3. [triangle](tasks/triangle/)
    - Task: Write a function that returns a specified row of Pascal's triangle as a list.
    - Solution: The `triangle` function returns a specified row of Pascal's triangle as a list.
    - Tests: Verifying the correctness of the solution through various test cases.
 
-4. [transposed](tasks/transposed)
+4. [transposed](tasks/transposed/)
    - Task: Write a function that should accept a matrix as a list of lists and return the transposed matrix (a new list of lists).
    - Solution: The `transposed` function returns the transposed matrix.
    - Tests: Verifying the correctness of the solution through various test cases.
 
-5. [sum_of_intervals](tasks/sum_of_intervals)
+5. [sum_of_intervals](tasks/sum_of_intervals/)
    - Task: Write a function that takes a list of intervals as input and returns the sum of all non-intersecting interval lengths. 
    - Solution: The `sum_of_intervals` function returns the transposed sum of all non-intersecting interval lengths.
    - Tests: Verifying the correctness of the solution through various test cases.
 
-6. [length_of_last_word](tasks/length_of_last_word)
+6. [length_of_last_word](tasks/length_of_last_word/)
    - Task: Write a function that which returns the length of the last word of the string passed to the input
    - Solution: The `length_of_last_word` function returns the length of the last word.
    - Tests: Verifying the correctness of the solution through various test cases.
 
-7. [chunked](tasks/chunked)
+7. [chunked](tasks/сhunked/)
    - Task: Write a function which returns a list consisting of chunks of the specified size. 
    - Solution: The `chunked` function returns a list of chunks of the specified size.
    - Tests: Verifying the correctness of the solution through various test cases.
 
-8. [hamming_weight](tasks/hamming_weight)
+8. [hamming_weight](tasks/hamming_weight/)
    - Task: Write a function which calculates the Hamming weight of an integer.
    - Solution: The `hamming_weight` function returns the Hamming weight.
    - Tests: Verifying the correctness of the solution through various test cases.
