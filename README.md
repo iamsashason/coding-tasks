@@ -51,6 +51,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `hamming_weight` function returns the Hamming weight.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+9. [rpn_calc](tasks/rpn_calc/)
+   - Task: Write a function that takes a list which contains a number or an operator and return the result of the calculation using reverse Polish notation.
+   - Solution: The `rpn_calc` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
