@@ -66,6 +66,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `compare_version` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+12. [summary_ranges](tasks/summary_ranges/)
+   - Task: Write a function that finds contiguous increasing sequences of numbers in a list and returns a list listing them.
+   - Solution: The `summary_ranges` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
