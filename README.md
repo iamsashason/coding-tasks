@@ -61,6 +61,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `enlarge` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+11. [compare_verison](tasks/compare_version/)
+   - Task: Write a function which compares the passed versions version1 AND version2. If version1 › version2, then the function should return 1, if version1 ‹ version2, TO -1, if version1 = version2 — 0.
+   - Solution: The `compare_version` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
