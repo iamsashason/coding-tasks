@@ -56,6 +56,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `rpn_calc` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+10. [enlarge](tasks/enlarge/)
+   - Task: Write a function that takes an image as a two-dimensional list of strings and enlarges it by a factor of two, that is, doubles each character horizontally and vertically.
+   - Solution: The `enlarge` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
