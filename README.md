@@ -71,6 +71,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `summary_ranges` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+13. [ichunks](tasks/ichunks/)
+   - Task: Write a function that returns an iterator of lists of a given length containing elements from the data source.
+   - Solution: The `ichunks` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
