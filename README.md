@@ -41,6 +41,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `length_of_last_word` function returns the length of the last word.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+7. [chunked](tasks/chunked)
+   - Task: Write a function which returns a list consisting of chunks of the specified size. 
+   - Solution: The `chunked` function returns a list of chunks of the specified size.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
