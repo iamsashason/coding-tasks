@@ -46,6 +46,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `chunked` function returns a list of chunks of the specified size.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+8. [hamming_weight](tasks/hamming_weight)
+   - Task: Write a function which calculates the Hamming weight of an integer.
+   - Solution: The `hamming_weight` function returns the Hamming weight.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
