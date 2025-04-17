@@ -81,6 +81,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `mirror_matrix` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+14. [snail_path](tasks/snail_path/)
+   - Task: Write a function that takes a matrix as input and returns a list of matrix elements in clockwise order from the top-left element to the innermost element.
+   - Solution: The `snail_path` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
