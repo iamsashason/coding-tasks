@@ -87,8 +87,13 @@ Tasks are organized into folders, each containing:
    - Tests: Verifying the correctness of the solution through various test cases.
 
 15. [multiply](tasks/multiply/)
-   - Task: Write a multiply function that takes two matrices and returns a new matrix that is the product of them..
+   - Task: Write a multiply function that takes two matrices and returns a new matrix that is the product of them.
    - Solution: The `multiply` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
+16. [visualize](tasks/visualize/)
+   - Task: Write a multiply function that counts how many coins of each denomination are in the piggy bank and displays the result as a graph.
+   - Solution: The `visualize` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
 ## Installation and Running Tests
