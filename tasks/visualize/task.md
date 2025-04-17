@@ -1,0 +1,4 @@
+Implement a visualize function that counts how many coins of each denomination are in the piggy bank and displays the result as a graph. Each column of the graph is a stack of coins of a certain denomination.
+For simplicity, let's assume that there are always coins in the piggy bank, and their number is unlimited, and the denomination can be any.
+The function takes a list or tuple of numbers as input and returns a graph as a string. The optional argument bar_char determines the character with which the graph is drawn. The default value is the dollar signм($).
+To solve this, use the built-in tool — Counter.
