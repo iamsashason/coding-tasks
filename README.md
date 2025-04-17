@@ -86,6 +86,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `snail_path` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+15. [multiply](tasks/multiply/)
+   - Task: Write a multiply function that takes two matrices and returns a new matrix that is the product of them..
+   - Solution: The `multiply` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
