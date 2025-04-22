@@ -101,6 +101,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `to_rna` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+18. [build_query_string](tasks/build_query_string/)
+   - Task: Implement a function that takes a dictionary of parameters as input and returns a query string formed from these parameters.
+   - Solution: The `build_query_string` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
