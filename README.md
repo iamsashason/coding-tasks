@@ -106,9 +106,14 @@ Tasks are organized into folders, each containing:
    - Solution: The `build_query_string` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
-20. [to_roman](tasks/to_roman/)
+19. [to_roman](tasks/to_roman/)
    - Task: Implement a to_roman() function that converts Arabic numerals to Roman numerals.
    - Solution: The `to_roman` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
+20. [to_arabic](tasks/to_arabic/)
+   - Task: Implement a to_roman() function that converts Arabic numerals to Roman numerals.
+   - Solution: The `to_arabic` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
 ## Installation and Running Tests
