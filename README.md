@@ -96,6 +96,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `visualize` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+17. [to_rna](tasks/to_rna/)
+   - Task: Implement a function to_rna that takes a DNA strand as input and returns the corresponding RNA strand (transcribes the RNA).
+   - Solution: The `to_rna` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
