@@ -116,6 +116,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `to_arabic` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+21. [find_where](tasks/find_where/)
+   - Task: Implement a find_where function that takes a list of books and a search query as input and returns the first book that matches the query.
+   - Solution: The `find_where` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
