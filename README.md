@@ -122,10 +122,17 @@ Tasks are organized into folders, each containing:
    - Tests: Verifying the correctness of the solution through various test cases.
 
 22. [scrabble](tasks/scrabble/)
-   - Task: IImplement a scrabble predicate function that takes two parameters: a set of characters (a string) and a word, and checks whether the given set can be used to create the word. 
+   - Task: Implement a scrabble predicate function that takes two parameters: a set of characters (a string) and a word, and checks whether the given set can be used to create the word. 
    - Solution: The `scrabble` function.
    - Tests: Verifying the correctness of the solution through various test cases.
    
+23. [merged](tasks/merged/)
+   - Task: Implement a function merged that merges multiple dictionaries into a single dictionary.
+   - Solution: The `scrabble` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
+
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
