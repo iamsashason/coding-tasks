@@ -131,7 +131,10 @@ Tasks are organized into folders, each containing:
    - Solution: The `scrabble` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
-
+24. [gen_diff](tasks/gen_diff/)
+   - Task: Implement a gen_diff function that compares two dictionaries and returns the result of the comparison as a dictionary.
+   - Solution: The `gen_diff` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
 
 ## Installation and Running Tests
 
