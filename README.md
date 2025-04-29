@@ -151,6 +151,13 @@ Tasks are organized into folders, each containing:
    - Solution: The `same_parity_filter` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+28. [typecheck](tasks/typecheck/)
+   - Task: Create a decorator that checks the types of arguments according to their annotations and returns TypeError, if needed.
+   - Solution: The `typecheck` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
+
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
