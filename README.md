@@ -141,6 +141,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `compose` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+26. [decode](tasks/decode/)
+   - Task: Implement a decode function that takes a string as a graphical representation of a linear signal and returns a string with binary code.
+   - Solution: The `decode` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
