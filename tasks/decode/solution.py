@@ -7,7 +7,7 @@ def decode(signal: str) -> str: # Function to decode a signal represented as a s
         state = [signal[0]] # Initialize state with the first character of the signal.
 
         return lambda acc, curr: ( # Lambda function to process each character in the signal.
-            acc + ('0' if curr == state[0] else state.__setitem__(0, curr) or '1') # 
+            acc + ('0' if curr == state[0] else state.__setitem__(0, curr) or '1') # Adding '0' if the current character is the same as the last one, otherwise update the state and add '1'. 
         )
 
     if not signal: # Check if the signal is empty.

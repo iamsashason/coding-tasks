@@ -146,6 +146,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `decode` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+27. [same_parity_filter](tasks/same_parity_filter/)
+   - Task:Implement a function same_parity_filter that takes a list as input and returns a new list consisting of elements that have the same parity as the first element of the original list.
+   - Solution: The `same_parity_filter` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
