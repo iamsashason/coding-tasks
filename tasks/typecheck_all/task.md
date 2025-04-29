@@ -1,0 +1,1 @@
+Create a decorator that checks the argument types according to their arguments' annotations. The decorator should check all arguments, accumulating errors, and only then stop execution if there were errors. The previously written typecheck decorator should be used in the implementation of this decorator.

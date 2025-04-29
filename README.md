@@ -156,7 +156,10 @@ Tasks are organized into folders, each containing:
    - Solution: The `typecheck` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
-
+29. [typecheck_all](tasks/typecheck_all/)
+   - Task: Create a decorator that checks the argument types according to their arguments' annotations. The decorator should check all arguments, accumulating errors, and only then stop execution if there were errors. The previously written typecheck decorator should be used in the implementation of this decorator.
+   - Solution: The `typecheck_all` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
 
 ## Installation and Running Tests
 
