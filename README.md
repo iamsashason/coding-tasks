@@ -136,6 +136,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `gen_diff` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+25. [compose](tasks/compose/)
+   - Task: Implement a function called compose that takes two other one-argument functions as input and returns a new function.
+   - Solution: The `compose` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
