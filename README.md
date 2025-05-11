@@ -161,6 +161,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `typecheck_all` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+30. [interactive_funstion](tasks/interactive_function/)
+   - Task: Implement two decorators that form a small DSL that allows you to turn regular functions into interactive programs. 
+   - Solution: The `interactive_function` module.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
