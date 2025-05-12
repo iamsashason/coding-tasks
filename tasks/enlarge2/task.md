@@ -1,0 +1,1 @@
+Implement a function called enlarge in functional style that enlarges the passed "image" by a factor of two: each "pixel" is doubled horizontally and vertically. The image is a list of strings, and the pixels in it are the characters of the strings.

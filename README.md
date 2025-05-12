@@ -171,6 +171,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `ip2int and int2ip` functions.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+32. [enlarge2](tasks/enlarge2/)
+   - Task: Implement a function called enlarge in functional style that enlarges the passed "image" by a factor of two: each "pixel" is doubled horizontally and vertically. The image is a list of strings, and the pixels in it are the characters of the strings.
+   - Solution: The `enlarge2` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
