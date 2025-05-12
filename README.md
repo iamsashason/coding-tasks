@@ -176,6 +176,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `enlarge2` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+33. [rgb2hex](tasks/rgb2hex/)
+   - Task: Implement a function rgb2hex that converts colors to the corresponding representation.
+   - Solution: The `rgb2hex` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
