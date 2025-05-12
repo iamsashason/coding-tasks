@@ -181,6 +181,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `rgb2hex` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+34. [find_index_of_nearest](tasks/find_index_of_nearest/)
+   - Task: Implement the find_index_of_nearest function that takes a list of numbers and the desired number as input. The function's task is to find the closest number to the desired number in the list and return its index.
+   - Solution: The `find_index_of_nearest` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
