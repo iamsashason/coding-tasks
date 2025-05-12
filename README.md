@@ -166,6 +166,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `interactive_function` module.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+31. [ip2int and int2ip](tasks/ip/)
+   - Task: Implement and export the ip2int and int2ip functions, which convert the dotted-decimal representation of an IP address to a 32-bit dotted-decimal number and back.
+   - Solution: The `ip2int and int2ip` functions.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
