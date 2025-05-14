@@ -186,6 +186,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `find_index_of_nearest` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+35. [filter_anagrams](tasks/filter_anagrams/)
+   - Task: Implement a function filter_anagrams that finds all anagram words. The function takes a source word and an iterable of words to check, and returns a sequence of anagrams.
+   - Solution: The `filter_anagrams` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
