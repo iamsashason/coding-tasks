@@ -196,9 +196,9 @@ Tasks are organized into folders, each containing:
    - Solution: The `histo` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
-37. [is_valid_ipv6](tasks/is_valid_ipv6/)
+37. [is_valid_iрv6](tasks/is_valid_iрv6/)
    - Task: Implement the predicate function is_valid_ipv6, which checks IPv6 (Internet Protocol version 6) addresses for validity. The function takes a string with an IPv address as input and returns True if the address is valid and False otherwise.
-   - Solution: The `is_valid_ipv6` function.
+   - Solution: The `is_valid_iрv6` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
 ## Installation and Running Tests
