@@ -191,6 +191,11 @@ Tasks are organized into folders, each containing:
    - Solution: The `filter_anagrams` function.
    - Tests: Verifying the correctness of the solution through various test cases.
 
+36. [histo](tasks/histo/)
+   - Task: Implement a histo function that takes a list or tuple of numbers as input and returns a histogram as a string, with the histogram columns separated by \n characters. Each column displays the number of occurrences of a number in the list: graphically using the specified characters and as a numeric value, except when the count is zero.
+   - Solution: The `histo` function.
+   - Tests: Verifying the correctness of the solution through various test cases.
+
 ## Installation and Running Tests
 
 1. Clone the repository to your machine:
