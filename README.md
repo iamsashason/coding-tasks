@@ -220,5 +220,5 @@ Tasks are organized into folders, each containing:
 
 1. Feel free to reach out to me through my [GitHub Profile](https://github.com/iamsashason).
 2. For inquiries, you can email me at: [svshvson@icloud.com](mailto:svshvson@icloud.com).
-3. [Telegram](https://t.me/iamsashason)
-4. [Instagram](https://www.instagram.com/iamsashason/)
+3. [Telegram](https://t.me/onsashason)
+4. [Instagram](https://www.instagram.com/onsashason/)
