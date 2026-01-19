@@ -207,7 +207,7 @@ Tasks are organized into folders, each containing:
    `git clone https://github.com/iamsashason/coding-tasks.git`.
    
 2. Go to the tasks directory:
-   `cd coding-tasks/tasks/is_continuous_sequence`.
+   `cd coding-tasks/tasks`.
    
 3. Make sure you have Python 3 installed. You can check the Python version with the command:
    `python3 --version`.
